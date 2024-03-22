@@ -1,2 +1,2 @@
 # Machine Learning Projects
-Author - Saurabh Kamal
+Author - Saurabh Kamal (project)
