@@ -1,2 +1,2 @@
-# Machine Learning Projects
+# Data Analytics Projects
 Author - Saurabh Kamal (project)
